@@ -1,0 +1,48 @@
+
+p{
+    color:blueviolet #8A2BE2;
+    background-color: aqua #00FFFF;
+}
+
+img {
+    border : inset;
+    border-radius: 50px;
+    border-color: green #008000;
+}
+
+.menu{
+    display:flex;
+    flex-wrap:wrap;
+     justify-content: space-between;
+     align-items: flex-start;
+     font-family:fantasy;
+     font-size:20px;
+     font-weight:400;
+     padding: 15px;
+     color:white #cccccc;
+
+}
+
+
+
+body{
+    background-image: url("https://www.google.com/search?q=pastel+background&safe=active&rlz=1C1ONGR_enUS941US941&sxsrf=ALeKk03kIwbJc8h-8oij9imnqzYAT_dhZg:1624820290739&tbm=isch&source=iu&ictx=1&fir=wqNQPpeDLDQoKM%252CuWpOd2PhHFCJrM%252C_&vet=1&usg=AI4_-kSR9T657uePZdBiHE_JJFFbzfb1og&sa=X&ved=2ahUKEwj8-YKiv7jxAhXiUN8KHeqXCg4Q9QF6BAgOEAE#imgrc=wqNQPpeDLDQoKM");
+    background-size: 100% ;
+    background-color: cornflowerblue #6495ED;
+    margin: 0px;
+
+}
+
+.grid img{
+    border:2px solid black #000000;
+    border-radius: 50px;
+   
+}
+.origami{
+    border-radius:20px;
+    background-color:white #FFFFFF;
+    width: 310px;
+    margin: 25px;
+    padding: 30px;
+    font-family:fantasy;
+}
